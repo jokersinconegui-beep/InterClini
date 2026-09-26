@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="InterClini.Api/InterClini.Api.csproj" />
+  <Project Path="InterClini.Application/InterClini.Application.csproj" />
+  <Project Path="InterClini.Domain/InterClini.Domain.csproj" />
+  <Project Path="InterClini.Infrastructure/InterClini.Infrastructure.csproj" />
+  <Project Path="InterClini.Tests/InterClini.Tests.csproj" />
+</Solution>
